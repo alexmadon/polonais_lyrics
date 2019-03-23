@@ -1,41 +1,43 @@
 A gdzież moje kare konie
 
+https://lyricstranslate.com/en/gdzie%C5%BC-moje-kare-konie-oh-where-are-my-black-horses.html
 
 
-A gdzież moje kare konie?
-A gdzież moje lejce?
-Hej, na wschodzie zakochanie
-Na zachodzie serce
-Hej, na wschodzie zakochanie
-Na zachodzie serce
+==================================  ========================================================
+A gdzież moje kare konie?           Où sont mes chevaux mourants?
+A gdzież moje lejce?                Où sont mes rênes?
+Hej, na wschodzie zakochanie        Hé, à l'Est est l'engoument
+Na zachodzie serce                  Á l'ouest est le cœur
+Hej, na wschodzie zakochanie        Hé, à l'Est est l'engoument
+Na zachodzie serce                  Á l'ouest est le cœur
+  
+Pochyliła się wisienka              S'est penché en avant le cerisier
+Z rana do wieczora                  Du matin au soir
+Czemu żeś ty miła moja              Pourquoi es-tu gentille mienne
+Smutna, niewesoła?                  Triste et malheureux?
+Czemu żeś ty miła moja              Pourquoi es-tu gentille mienne
+Smutna, niewesoła?                  Triste et malheureux?
  
-Pochyliła się wisienka
-Z rana do wieczora
-Czemu żeś ty miła moja
-Smutna, niewesoła?
-Czemu żeś ty miła moja
-Smutna, niewesoła?
+A gdzież moje kare konie?           Où sont mes chevaux mourants?
+A gdzież moje lejce?                Où sont mes rênes?
+A gdzież moja kochaneczka           Et où est ma bien aimée
+Ulubione serce?                     Cher cœur?
+A gdzież moja kochaneczka           Et où est ma bien aimée
+Ulubione serce?                     Cher cœur?
  
-A gdzież moje kare konie?
-A gdzież moje lejce?
-A gdzież moja kochaneczka
-Ulubione serce?
-A gdzież moja kochaneczka
-Ulubione serce?
+W stajni konie, w stajni konie      Les chevaux dans l'écurie, les chevaux dans l'écurie,
+A w komorze lejce                   Et dans la chambre les rênes
+A gdzież moja kochaneczka           Et où est ma bien aimée
+Ulubione serce?                     Cher cœur?
+A gdzież moja kochaneczka           Et où est ma bien aimée
+Ulubione serce?                     Cher cœur?
  
-W stajni konie, w stajni konie
-A w komorze lejce
-A gdzież moja kochaneczka
-Ulubione serce?
-A gdzież moja kochaneczka
-Ulubione serce?
- 
-Już mi moja studzianeczka
-Murawą zarosła
-Już mi moja kochaneczka
-Za innego poszła
-Już mi moja kochaneczka
-Za innego poszła
+Już mi moja studzianeczka           Déjà ma bienaimée
+Murawą zarosła                      Un autre a suivi
+Już mi moja kochaneczka             Déjà ma bienaimée
+Za innego poszła                    Un autre a suivi
+Już mi moja kochaneczka             Déjà ma bienaimée
+Za innego poszła                    Un autre a suivi
  
 Już mi moja studzianeczka
 Piaskiem zawalona
