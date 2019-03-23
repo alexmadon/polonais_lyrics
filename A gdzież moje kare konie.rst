@@ -59,3 +59,4 @@ Napisałabym do panów
 Co sama rozumiem
 Napisałabym do panów
 Co sama rozumiem.﻿
+==================================  ========================================================
