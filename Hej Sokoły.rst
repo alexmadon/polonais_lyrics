@@ -18,10 +18,26 @@
 | | Mój stepowy                           | | Ma steppe                                         |
 | | Dzwoń, dzwoń, dzwoń                   | | Sonne, sonne, sonne                               |
 | |                                       | |                                                   |
+| | Refren .                              | |                                                   |
+| |                                       | |                                                   |
+| | Pięknych dziewcząt jest niemało       | | Belles filles il y a beaucoup                     |
+| | Lecz najwięcej w Ukrainie             | | Mais le plus en Ukraine                           |
+| | Tam me serce pozostało                | | Là mon cœur est resté                             |
+| | Przy kochanej mej dziewczynie         | | Avec ma chère petite amie.                        |
+| |                                       | |                                                   |
+| | Refren .                              | | Refrain     (variante)                            |
+| |                                       | |                                                   |
 | | Wiele dziewcząt jest na świecie,      | | Beaucoup de filles sont dans le monde,            |
-| | Lecz najwięcej w Ukrainie.            | | Mais l plus en Ukraine                            |
+| | Lecz najwięcej w Ukrainie.            | | Mais le plus en Ukraine                           |
 | | Tam me serce pozostało,               | | Là mon cœur est resté                             |
 | | Przy kochanej mej dziewczynie.        | | Avec ma chère petite amie.                        |
+| |                                       | |                                                   |
+| | Refren .                              | |                                                   |
+| |                                       | |                                                   |
+| | Ona biedna tam została,               | | Elle pauvre là-bas était                          |
+| | Przepióreczka moja mała,              | | Caille ma petite                                  |
+| | A ja tutaj w obcej stronie            | | Et ici dans l'étranger endroit                    |
+| | Dniem i nocą tęsknię do niej.         | | Jour et nuit manque à moi elle                    |
 | |                                       | |                                                   |
 | | Refren .                              | |                                                   |
 | |                                       | |                                                   |
