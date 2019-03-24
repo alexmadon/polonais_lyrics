@@ -3,7 +3,7 @@
 | |                                       | |                                                   |
 | | Hej, tam gdzieś z nad czarnej wody    | | Hé, quelque part avec les noires eaux             |
 | | Wsiada na koń kozak młody.            | | Monte à cheval un cosaque jeune                   |
-| | Czule żegna się z dziewczyną,         | | Tendrement fait ses adeuxx à la fille             |
+| | Czule żegna się z dziewczyną,         | | Tendrement fait ses adieux à la fille             |
 | | Jeszcze czulej z Ukrainą.             | | Encore tendrement à l'Ukraine.                    |
 | |                                       | |                                                   |    
 | | Refren:                               | | Refrain:                                          |
