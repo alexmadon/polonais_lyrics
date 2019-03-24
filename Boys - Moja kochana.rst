@@ -16,7 +16,7 @@ Boys - Moja kochana
 | |                                                     | |                                                                  |
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Ref.                                                | | Ref                                                              |
-| | Nadal mam przy sobie                                | | J'ai toujours avec moi                                           |
+| | Nadal mam przy sobie                                | | Encore j'ai avec moi                                           |
 | | Kilka twoich zdjęć.                                 | | Quelques de toi photos.                                          |
 | | Jeden wiersz o tobie,                               | | Un poème à propos de toi,                                        |
 | | Twoich listów pięć.                                 | | Tes lettres cinq.                                                |
@@ -38,7 +38,7 @@ Boys - Moja kochana
 | |                                                     | |                                                                  |               
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Ref. x2                                             | |                                                                  |
-| | Nadal mam przy sobie                                | | J'ai toujours avec moi                                           |
+| | Nadal mam przy sobie                                | | Encore j'ai avec moi                                           |
 | | Kilka twoich zdjęć.                                 | | Quelques de toi photos.                                          |
 | | Jeden wiersz o tobie,                               | | Un poème à propos de toi,                                        |
 | | Twoich listów pięć.                                 | | Tes lettres cinq.                                                |
