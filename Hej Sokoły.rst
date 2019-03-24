@@ -1,8 +1,8 @@
 +-----------------------------------------+-----------------------------------------------------+
 | | Hej Sokoły                            | | Hé les faucons                                    |
 | |                                       | |                                                   |
-| | Hej, tam gdzieś z nad czarnej wody    | | Hé, quelque part avec les eaux noires             |
-| | Wsiada na koń kozak młody.            | | Monte à cheval un cosqaue jeune                   |
+| | Hej, tam gdzieś z nad czarnej wody    | | Hé, quelque part avec les noires eaux             |
+| | Wsiada na koń kozak młody.            | | Monte à cheval un cosaque jeune                   |
 | | Czule żegna się z dziewczyną,         | | Tendrement fait ses adeuxx à la fille             |
 | | Jeszcze czulej z Ukrainą.             | | Encore tendrement à l'Ukraine.                    |
 | |                                       | |                                                   |    
