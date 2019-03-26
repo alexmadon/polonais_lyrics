@@ -1,16 +1,17 @@
-
+https://lyricstranslate.com/en/w-moim-ogr%C3%B3decku-my-garden.html
+https://lyricstranslate.com/en/w-moim-ogr%C3%B3decku-dans-mon-jardin.html
 
 +------------------------------------------+--------------------------------------------+
 | | W moim ogródeczku rośnie różyczka      | | Dans mon jardin une rose pousse          |
-| | Napój mi, Maniusiu, mego kóniczka      | | Bois moi, Manius, ma femme de ménage     |
+| | Napój mi, Maniusiu, mego kóniczka      | | Abreuve moi, Manius, ma femme de ménage  |
 | |                                        | |                                          |
-| | Nie chcę, nie napoję                   | | Je ne veux pas, je ne bois pas           |
+| | Nie chcę, nie napoję                   | | Je ne veux pas, je n'abreuverai pas      |
 | | Bo się kunia boję                      | | Parce que j'ai peur                      |
 | | Bo się kunia boję                      | | Parce que j'ai peur                      |
-| | Bom jeszcze młoda                      | | Je suis encore jeune                     |
+| | Bom jeszcze młoda                      | | Depuis que je suis jeune                 |
 | |                                        | |                                          |
 | | W moim ogródeczku rośnie rozmaryn      | | Dans mon jardin le romarin pousse        |
-| | Powiedz mi Maniusiu, kto cię omanił?   | | Bois moi, Manius, ma femme de ménage     |
+| | Powiedz mi Maniusiu, kto cię omanił?   | | Abreuve moi, Manius, ma femme de ménage  |
 | |                                        | |                                          |
 | | Jasieńkowe oczka                       | | Yeux clairs                              |
 | | Jasieńkowe oczka                       | | Yeux clairs                              |
