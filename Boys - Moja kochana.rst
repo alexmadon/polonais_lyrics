@@ -7,7 +7,7 @@ Boys - Moja kochana
 | |                                                     | |                                                                  |
 | | 1.                                                  | | 1                                                                |
 | | Moja kochana,                                       | | Mon amour                                                        |
-| | Wciąż nie umiem z siebie wydrzeć naszych_ snów.      | | Toujours pas ne peux de moi sortir nos rêves                     |
+| | Wciąż nie umiem z siebie wydrzeć naszych_ snów.      | | Toujours pas ne peux de moi sortir nos rêves                    |
 | | W mej głowie nie wiem, skąd                         | | Dans ma tête je ne sais d'où                                     |
 | | Jak blask na niebie zagościłaś znów.                | | Comme une lueur dans le ciel tu es revenue.                      |
 | | I choć te dni odeszły                               | | Et bien que ces jours soient disparus                            |
@@ -50,4 +50,4 @@ Boys - Moja kochana
 | | Moja kochana...                                     | | Mon amour                                                        |
 +-------------------------------------------------------+--------------------------------------------------------------------+
 
-.. _naszych: https://en.wiktionary.org/wiki/nasz#Polish нашь на́ших
+.. _naszych: https://en.wiktionary.org/wiki/nasz#Polish наш  на́ших
