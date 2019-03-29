@@ -2,12 +2,12 @@ Boys - Moja kochana
 ===================
 
 +-------------------------------------------------------+--------------------------------------------------------------------+
-| | Moja kochana...                                     | | Mon amour                                                        |
-| | Moja kochana...                                     | | Mon amour                                                        |
+| | Moja_ kochana...                                    | | Mon amour                                                        |
+| | Moja kochana_...                                    | | Mon amour                                                        |
 | |                                                     | |                                                                  |
 | | 1.                                                  | | 1                                                                |
 | | Moja kochana,                                       | | Mon amour                                                        |
-| | Wciąż nie umiem_ z siebie wydrzeć naszych_ snów.    | | Toujours pas ne peux de moi sortir nos rêves                     |
+| | Wciąż nie umiem_ z siebie wydrzeć naszych_ snów_.   | | Toujours pas ne peux de moi sortir nos rêves                     |
 | | W mej głowie nie wiem, skąd                         | | Dans ma tête je ne sais d'où                                     |
 | | Jak blask na niebie zagościłaś znów.                | | Comme une lueur dans le ciel tu es revenue.                      |
 | | I choć te dni odeszły                               | | Et bien que ces jours soient disparus                            |
@@ -51,6 +51,12 @@ Boys - Moja kochana
 +-------------------------------------------------------+--------------------------------------------------------------------+
 
 
+.. _Moja : https://en.wiktionary.org/wiki/m%C3%B3j#Polish
+
+.. _kochana : https://en.wiktionary.org/wiki/kocha%C4%87#Polish
+
 .. _umiem: https://en.wiktionary.org/wiki/umie%C4%87#Polish
 
 .. _naszych: https://en.wiktionary.org/wiki/nasz#Polish
+
+.. _snów: https://en.wiktionary.org/wiki/sen#Polish
