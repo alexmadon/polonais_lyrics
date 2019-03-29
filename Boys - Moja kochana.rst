@@ -50,4 +50,6 @@ Boys - Moja kochana
 | | Moja kochana...                                     | | Mon amour                                                        |
 +-------------------------------------------------------+--------------------------------------------------------------------+
 
-.. _naszych: https://en.wiktionary.org/wiki/nasz#Polish наш  на́ших
+.. _naszych:
+
+https://en.wiktionary.org/wiki/nasz#Polish наш  на́ших
