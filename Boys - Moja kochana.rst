@@ -125,7 +125,7 @@ Boys - Moja kochana
 
 .. _oknem : https://en.wiktionary.org/wiki/okno#Polish
 
-.. _wieje : https://en.wiktionary.org/wiki/wia%C4%87
+.. _fwieje : https://en.wiktionary.org/wiki/wia%C4%87
 
 
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
