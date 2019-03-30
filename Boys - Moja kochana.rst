@@ -42,9 +42,9 @@ Boys - Moja kochana
 | | Kilka twoich zdjęć.                                 | | Quelques de toi photos.                                          |
 | | Jeden wiersz o tobie,                               | | Un poème à propos de toi,                                        |
 | | Twoich listów pięć.                                 | | Tes lettres cinq.                                                |
-| | Wciąż nie umiem z lustra twojej szminki zmyć.       | | Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
-| | Nadal twoje usta lubią mi się śnić.                 | | Encore tes lèvres aiment de moi rêver.                           |
-| | I choć te dni odeszły                               | | Et bien que ces jours soient disparus                            |
+| | Wciąż nie umiem z lustra_ twojej szminki zmyć.      | | Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
+| | Nadal twoje usta_ lubią mi się śnić.                | | Encore tes lèvres aiment de moi rêver.                           |
+| | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
 | | I mieszkasz_ teraz w czasie_ przeszłym,             | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | | Moja kochana...                                     | | Mon amour                                                        |
