@@ -17,24 +17,24 @@ Boys - Moja kochana
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Ref.                                                | | Ref                                                              |
 | | Nadal mam przy sobie                                | | Encore j'ai avec moi                                             |
-| | Kilka twoich zdjęć.                                 | | Quelques de toi photos.                                          |
-| | Jeden wiersz o tobie,                               | | Un poème à propos de toi,                                        |
-| | Twoich listów pięć.                                 | | Tes lettres cinq.                                                |
-| | Wciąż nie umiem z lustra twojej szminki zmyć.       | | Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
+| | Kilka twoich zdjęć_.                                | | Quelques de toi photos.                                          |
+| | Jeden wiersz_ o tobie,                              | | Un poème à propos de toi,                                        |
+| | Twoich listów pięć_.                                | | Tes lettres cinq.                                                |
+| | Wciąż nie umiem z lustra_ twojej szminki zmyć.      | | Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
 | | Nadal twoje usta_ lubią mi się śnić_.               | | Encore tes lèvres aiment de moi rêver.                           |
 | | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
-| | I mieszkasz teraz w czasie przeszłym,               | | Et tu vis maintenant au passé,                                   |
-| | To nadal wszystko mi się składa w słowo_ ty         | | C'est encore tout qui forme pour moi le mot TOI                  |
+| | I mieszkasz_ teraz w czasie_ przeszłym,             | | Et tu vis maintenant au passé,                                   |
+| | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | | Moja kochana...                                     | | Mon amour                                                        |
 | |                                                     | |                                                                  |
 | | 2.                                                  | | 2.                                                               |
 | | Moja kochana,                                       | | Mon amour                                                        |
-| | Już za oknem wieje tylko zimny wiatr.               | | Déjà en dehors de la fenêtre soffle seulement le froid vent      |
-| | Twe zdjęcia pokrył kurz,                            | | Tes photos couvertes de poussière                                |
+| | Już za oknem wieje tylko_ zimny_ wiatr_.            | | Déjà en dehors de la fenêtre souffle seulement le froid vent     |
+| | Twe zdjęcia_ pokrył kurz,                           | | Tes photos couvertes de poussière                                |
 | | A piach przysypał każdy po nas ślad.                | | Et le sable couvre chacune de nos traces                         |
 | | I choć te dni odeszły                               | | Et bien que ces jours soient disparus                            |
-| | I mieszkasz teraz w czasie przeszłym,               | | Et tu vis maintenant au passé,                                   |
-| | To nadal wszystko mi się składa w słowo ty          | | C'est encore tout qui forme pour moi le mot TOI                  |
+| | I mieszkasz_ teraz w czasie_ przeszłym,             | | Et tu vis maintenant au passé,                                   |
+| | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | |                                                     | |                                                                  |               
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Ref. x2                                             | |                                                                  |
@@ -45,8 +45,8 @@ Boys - Moja kochana
 | | Wciąż nie umiem z lustra twojej szminki zmyć.       | | Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
 | | Nadal twoje usta lubią mi się śnić.                 | | Encore tes lèvres aiment de moi rêver.                           |
 | | I choć te dni odeszły                               | | Et bien que ces jours soient disparus                            |
-| | I mieszkasz teraz w czasie przeszłym,               | | Et tu vis maintenant au passé,                                   |
-| | To nadal wszystko mi się składa w słowo ty          | | C'est encore tout qui forme pour moi le mot TOI                  |
+| | I mieszkasz_ teraz w czasie_ przeszłym,             | | Et tu vis maintenant au passé,                                   |
+| | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | | Moja kochana...                                     | | Mon amour                                                        |
 +-------------------------------------------------------+--------------------------------------------------------------------+
 
@@ -95,6 +95,24 @@ Boys - Moja kochana
 .. _śnić : https://en.wiktionary.org/wiki/%C5%9Bni%C4%87#Polish
 
 .. _choć : https://en.wiktionary.org/wiki/cho%C4%87
+
+.. _zdjęć : https://en.wiktionary.org/wiki/zdj%C4%99cie#Polish
+
+.. _wiersz : https://en.wiktionary.org/wiki/wiersz
+
+.. _pięć : https://en.wiktionary.org/wiki/pi%C4%99%C4%87
+
+.. _lustra : https://en.wiktionary.org/wiki/lustro#Polish
+
+
+.. _wiatr : https://en.wiktionary.org/wiki/wiatr
+
+.. _tylko : https://en.wiktionary.org/wiki/tylko
+
+.. _zimny : https://en.wiktionary.org/wiki/zimny
+
+.. _zdjęcia : https://en.wiktionary.org/wiki/zdj%C4%99cie
+
 
 
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
