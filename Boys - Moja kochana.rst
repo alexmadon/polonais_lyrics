@@ -1,12 +1,6 @@
 Boys - Moja kochana
 ===================
 
-+-------------------------------------------------------+--------------------------------------------------------------------+
-| |                   ˈɕɛ.bʲɛ         ˈna.ʂɨx   snuf    | |                                                                  |
-| |      ˈɡwɔ.vʲɛ           skɔnt                       | |                                                                  |
-| |                                  znuf               | |                                                                  |
-| |   xɔtɕ                                              | |                                                                  |
-+-------------------------------------------------------+--------------------------------------------------------------------+
 
 +-------------------------------------------------------+--------------------------------------------------------------------+
 | | Moja_ kochana...                                    | | Mon amour                                                        |
@@ -15,9 +9,13 @@ Boys - Moja kochana
 | | 1.                                                  | | 1                                                                |
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Wciąż nie umiem_ z siebie_ wydrzeć naszych_ snów_.  | | Toujours pas ne peux de moi sortir nos rêves                     |
+| | ------------------ˈɕɛ.bʲɛ  ------ ˈna.ʂɨx   snuf    | |                                                                  |
 | | W mej głowie_ nie wiem, skąd_                       | | Dans ma tête je ne sais d'où                                     |
+| | ---- ˈɡwɔ.vʲɛ --------- skɔnt                       | |                                                                  |
 | | Jak blask_ na niebie_ zagościłaś znów_.             | | Comme une lueur dans le ciel tu es revenue.                      |
-| | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
+| | -------------------------------- znuf               | |                                                                  |
+| | I choć_ te dni odeszły_                             | | Et bien que ces jours soient disparus                            |
+| | -  xɔtɕ -- --- --------                             | |                                                                  |
 | | I mieszkasz_ teraz_ w czasie_ przeszłym_,           | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | |                                                     | |                                                                  |
@@ -135,6 +133,8 @@ Boys - Moja kochana
 .. _fwieje : https://en.wiktionary.org/wiki/wia%C4%87
 
 .. _skąd: https://en.wiktionary.org/wiki/sk%C4%85d
+
+.. _odeszły : https://en.wiktionary.org/wiki/odej%C5%9B%C4%87
 
 
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
