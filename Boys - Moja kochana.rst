@@ -2,13 +2,16 @@ Boys - Moja kochana
 ===================
 
 +-------------------------------------------------------+--------------------------------------------------------------------+
+| |                   ˈɕɛ.bʲɛ         ˈna.ʂɨx   snuf    | |                                                                  |
++-------------------------------------------------------+--------------------------------------------------------------------+
+
++-------------------------------------------------------+--------------------------------------------------------------------+
 | | Moja_ kochana...                                    | | Mon amour                                                        |
 | | Moja kochana_...                                    | | Mon amour                                                        |
 | |                                                     | |                                                                  |
 | | 1.                                                  | | 1                                                                |
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Wciąż nie umiem_ z siebie_ wydrzeć naszych_ snów_.  | | Toujours pas ne peux de moi sortir nos rêves                     |
-| |                   ˈɕɛ.bʲɛ         ˈna.ʂɨx   snuf    | |                                                                  |
 | | W mej głowie_ nie wiem, skąd_                       | | Dans ma tête je ne sais d'où                                     |
 | |      ˈɡwɔ.vʲɛ           skɔnt                       | |                                                                  |
 | | Jak blask_ na niebie_ zagościłaś znów_.             | | Comme une lueur dans le ciel tu es revenue.                      |
