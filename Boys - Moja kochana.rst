@@ -8,8 +8,11 @@ Boys - Moja kochana
 | | 1.                                                  | | 1                                                                |
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Wciąż nie umiem_ z siebie_ wydrzeć naszych_ snów_.  | | Toujours pas ne peux de moi sortir nos rêves                     |
-| | W mej głowie_ nie wiem, skąd                        | | Dans ma tête je ne sais d'où                                     |
+| |                   ˈɕɛ.bʲɛ         ˈna.ʂɨx   snuf    | |                                                                  |
+| | W mej głowie_ nie wiem, skąd_                       | | Dans ma tête je ne sais d'où                                     |
+| |      ˈɡwɔ.vʲɛ           skɔnt                       | |                                                                  |
 | | Jak blask_ na niebie_ zagościłaś znów_.             | | Comme une lueur dans le ciel tu es revenue.                      |
+| |                                  znuf               | |                                                                  |
 | | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
 | | I mieszkasz_ teraz_ w czasie_ przeszłym_,           | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
@@ -33,6 +36,7 @@ Boys - Moja kochana
 | | Twe zdjęcia_ pokrył kurz_,                          | | Tes photos couvertes de poussière                                |
 | | A piach_ przysypał każdy_ po nas ślad_.             | | Et le sable couvre chacune de nos traces                         |
 | | I choć te dni odeszły_                              | | Et bien que ces jours soient disparus                            |
+| |   xɔt͡ɕ                                              | |                                                                  |
 | | I mieszkasz_ teraz w czasie_ przeszłym,             | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | |                                                     | |                                                                  |               
@@ -126,6 +130,8 @@ Boys - Moja kochana
 .. _oknem : https://en.wiktionary.org/wiki/okno#Polish
 
 .. _fwieje : https://en.wiktionary.org/wiki/wia%C4%87
+
+.. _skąd: https://en.wiktionary.org/wiki/sk%C4%85d
 
 
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
