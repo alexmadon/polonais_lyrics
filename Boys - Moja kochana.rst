@@ -23,16 +23,16 @@ Boys - Moja kochana
 | | Wciąż nie umiem z lustra_ twojej szminki zmyć.      | | Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
 | | Nadal twoje usta_ lubią mi się śnić_.               | | Encore tes lèvres aiment de moi rêver.                           |
 | | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
-| | I mieszkasz_ teraz w czasie_ przeszłym,             | | Et tu vis maintenant au passé,                                   |
+| | I mieszkasz_ teraz w czasie_przeszłym_,             | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | | Moja kochana...                                     | | Mon amour                                                        |
 | |                                                     | |                                                                  |
 | | 2.                                                  | | 2.                                                               |
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Już za oknem wieje tylko_ zimny_ wiatr_.            | | Déjà en dehors de la fenêtre souffle seulement le froid vent     |
-| | Twe zdjęcia_ pokrył kurz,                           | | Tes photos couvertes de poussière                                |
-| | A piach przysypał każdy po nas ślad.                | | Et le sable couvre chacune de nos traces                         |
-| | I choć te dni odeszły                               | | Et bien que ces jours soient disparus                            |
+| | Twe zdjęcia_ pokrył kurz_,                          | | Tes photos couvertes de poussière                                |
+| | A piach_ przysypał każdy_ po nas ślad_.             | | Et le sable couvre chacune de nos traces                         |
+| | I choć te dni odeszły_                              | | Et bien que ces jours soient disparus                            |
 | | I mieszkasz_ teraz w czasie_ przeszłym,             | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | |                                                     | |                                                                  |               
@@ -113,7 +113,15 @@ Boys - Moja kochana
 
 .. _zdjęcia : https://en.wiktionary.org/wiki/zdj%C4%99cie
 
+.. _kurz: https://en.wiktionary.org/wiki/kurz#Polish
 
+.. _piach : https://en.wiktionary.org/wiki/piach
+.. _każdy : https://en.wiktionary.org/wiki/ka%C5%BCdy
+.. _ślad : https://en.wiktionary.org/wiki/%C5%9Blad
+
+.. _odeszły : https://en.wiktionary.org/wiki/odej%C5%9B%C4%87
+
+.. _czasie_przeszłym : https://pl.wiktionary.org/wiki/czas_przesz%C5%82y
 
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
 ftp://www.istorichka.ru/Slavjanovedenie/Etimologicheskij_slovar%60_slavjanskogo_jazyka/
