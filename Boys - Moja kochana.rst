@@ -29,7 +29,7 @@ Boys - Moja kochana
 | |                                                     | |                                                                  |
 | | 2.                                                  | | 2.                                                               |
 | | Moja kochana,                                       | | Mon amour                                                        |
-| | Już za oknem wieje tylko_ zimny_ wiatr_.            | | Déjà en dehors de la fenêtre souffle seulement le froid vent     |
+| | Już za oknem_ wieje_ tylko_ zimny_ wiatr_.          | | Déjà en dehors de la fenêtre souffle seulement le froid vent     |
 | | Twe zdjęcia_ pokrył kurz_,                          | | Tes photos couvertes de poussière                                |
 | | A piach_ przysypał każdy_ po nas ślad_.             | | Et le sable couvre chacune de nos traces                         |
 | | I choć te dni odeszły_                              | | Et bien que ces jours soient disparus                            |
@@ -122,6 +122,11 @@ Boys - Moja kochana
 .. _odeszły : https://en.wiktionary.org/wiki/odej%C5%9B%C4%87
 
 .. _czasie_przeszłym : https://pl.wiktionary.org/wiki/czas_przesz%C5%82y
+
+.. _oknem : https://en.wiktionary.org/wiki/okno#Polish
+
+.. _wieje : https://en.wiktionary.org/wiki/wia%C4%87
+
 
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
 ftp://www.istorichka.ru/Slavjanovedenie/Etimologicheskij_slovar%60_slavjanskogo_jazyka/
