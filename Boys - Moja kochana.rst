@@ -5,6 +5,7 @@ Boys - Moja kochana
 | |                   ˈɕɛ.bʲɛ         ˈna.ʂɨx   snuf    | |                                                                  |
 | |      ˈɡwɔ.vʲɛ           skɔnt                       | |                                                                  |
 | |                                  znuf               | |                                                                  |
+| |   xɔt͡ɕ                                              | |                                                                  |
 +-------------------------------------------------------+--------------------------------------------------------------------+
 
 +-------------------------------------------------------+--------------------------------------------------------------------+
@@ -39,7 +40,6 @@ Boys - Moja kochana
 | | Twe zdjęcia_ pokrył kurz_,                          | | Tes photos couvertes de poussière                                |
 | | A piach_ przysypał każdy_ po nas ślad_.             | | Et le sable couvre chacune de nos traces                         |
 | | I choć te dni odeszły_                              | | Et bien que ces jours soient disparus                            |
-| |   xɔt͡ɕ                                              | |                                                                  |
 | | I mieszkasz_ teraz w czasie_ przeszłym,             | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | |                                                     | |                                                                  |               
