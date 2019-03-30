@@ -11,8 +11,8 @@ Boys - Moja kochana
 | | W mej głowie_ nie wiem, skąd                        | | Dans ma tête je ne sais d'où                                     |
 | | Jak blask_ na niebie_ zagościłaś znów_.             | | Comme une lueur dans le ciel tu es revenue.                      |
 | | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
-| | I mieszkasz_ teraz_ w czasie_ przeszłym,            | | Et tu vis maintenant au passé,                                   |
-| | To nadal wszystko_ mi się składa w słowo_ ty        | | C'est encore tout qui forme pour moi le mot TOI                  |
+| | I mieszkasz_ teraz_ w czasie_ przeszłym_,           | | Et tu vis maintenant au passé,                                   |
+| | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
 | |                                                     | |                                                                  |
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Ref.                                                | | Ref                                                              |
@@ -21,8 +21,8 @@ Boys - Moja kochana
 | | Jeden wiersz o tobie,                               | | Un poème à propos de toi,                                        |
 | | Twoich listów pięć.                                 | | Tes lettres cinq.                                                |
 | | Wciąż nie umiem z lustra twojej szminki zmyć.       | | Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
-| | Nadal twoje usta lubią mi się śnić.                 | | Encore tes lèvres aiment de moi rêver.                           |
-| | I choć te dni odeszły                               | | Et bien que ces jours soient disparus                            |
+| | Nadal twoje usta_ lubią mi się śnić_.               | | Encore tes lèvres aiment de moi rêver.                           |
+| | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
 | | I mieszkasz teraz w czasie przeszłym,               | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko mi się składa w słowo_ ty         | | C'est encore tout qui forme pour moi le mot TOI                  |
 | | Moja kochana...                                     | | Mon amour                                                        |
@@ -85,6 +85,17 @@ Boys - Moja kochana
 .. _czasie : https://en.wiktionary.org/wiki/czas#Polish
 
 .. _wszystko : https://en.wiktionary.org/wiki/wszystko
+
+.. _przeszłym : https://pl.wiktionary.org/wiki/przesz%C5%82y
+
+.. _składa : https://en.wiktionary.org/wiki/sk%C5%82ada%C4%87#Polish
+
+.. _usta : https://en.wiktionary.org/wiki/usta#Polish
+
+.. _śnić : https://en.wiktionary.org/wiki/%C5%9Bni%C4%87#Polish
+
+.. _choć : https://en.wiktionary.org/wiki/cho%C4%87
+
 
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
 ftp://www.istorichka.ru/Slavjanovedenie/Etimologicheskij_slovar%60_slavjanskogo_jazyka/
