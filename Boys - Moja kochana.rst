@@ -4,6 +4,7 @@ Boys - Moja kochana
 +-------------------------------------------------------+--------------------------------------------------------------------+
 | |                   ˈɕɛ.bʲɛ         ˈna.ʂɨx   snuf    | |                                                                  |
 | |      ˈɡwɔ.vʲɛ           skɔnt                       | |                                                                  |
+| |                                  znuf               | |                                                                  |
 +-------------------------------------------------------+--------------------------------------------------------------------+
 
 +-------------------------------------------------------+--------------------------------------------------------------------+
@@ -15,7 +16,6 @@ Boys - Moja kochana
 | | Wciąż nie umiem_ z siebie_ wydrzeć naszych_ snów_.  | | Toujours pas ne peux de moi sortir nos rêves                     |
 | | W mej głowie_ nie wiem, skąd_                       | | Dans ma tête je ne sais d'où                                     |
 | | Jak blask_ na niebie_ zagościłaś znów_.             | | Comme une lueur dans le ciel tu es revenue.                      |
-| |                                  znuf               | |                                                                  |
 | | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
 | | I mieszkasz_ teraz_ w czasie_ przeszłym_,           | | Et tu vis maintenant au passé,                                   |
 | | To nadal wszystko_ mi się składa_ w słowo_ ty       | | C'est encore tout qui forme pour moi le mot TOI                  |
