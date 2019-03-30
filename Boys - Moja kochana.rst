@@ -8,11 +8,11 @@ Boys - Moja kochana
 | | 1.                                                  | | 1                                                                |
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Wciąż nie umiem_ z siebie_ wydrzeć naszych_ snów_.  | | Toujours pas ne peux de moi sortir nos rêves                     |
-| | W mej głowie nie wiem, skąd                         | | Dans ma tête je ne sais d'où                                     |
-| | Jak blask na niebie zagościłaś znów.                | | Comme une lueur dans le ciel tu es revenue.                      |
-| | I choć te dni odeszły                               | | Et bien que ces jours soient disparus                            |
-| | I mieszkasz teraz w czasie przeszłym,               | | Et tu vis maintenant au passé,                                   |
-| | To nadal wszystko mi się składa w słowo_ ty         | | C'est encore tout qui forme pour moi le mot TOI                  |
+| | W mej głowie_ nie wiem, skąd                        | | Dans ma tête je ne sais d'où                                     |
+| | Jak blask_ na niebie_ zagościłaś znów_.             | | Comme une lueur dans le ciel tu es revenue.                      |
+| | I choć_ te dni odeszły                              | | Et bien que ces jours soient disparus                            |
+| | I mieszkasz_ teraz_ w czasie_ przeszłym,            | | Et tu vis maintenant au passé,                                   |
+| | To nadal wszystko_ mi się składa w słowo_ ty        | | C'est encore tout qui forme pour moi le mot TOI                  |
 | |                                                     | |                                                                  |
 | | Moja kochana,                                       | | Mon amour                                                        |
 | | Ref.                                                | | Ref                                                              |
@@ -66,6 +66,25 @@ Boys - Moja kochana
 
 .. _słowo : https://en.wiktionary.org/wiki/s%C5%82owo#Polish
 
+.. _głowie : https://en.wiktionary.org/wiki/g%C5%82owa#Polish
+
+
+.. _blask : https://en.wiktionary.org/wiki/blask#Polish
+
+.. _niebie : https://en.wiktionary.org/wiki/niebo#Polish
+
+
+.. _znów : https://en.wiktionary.org/wiki/zn%C3%B3w#Polish
+
+.. _choć : https://en.wiktionary.org/wiki/cho%C4%87#Polish
+
+.. _mieszkasz : https://en.wiktionary.org/wiki/mieszka%C4%87#Polish
+
+.. _teraz : https://en.wiktionary.org/wiki/teraz#Polish
+
+.. _czasie : https://en.wiktionary.org/wiki/czas#Polish
+
+.. _wszystko : https://en.wiktionary.org/wiki/wszystko
 
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
 ftp://www.istorichka.ru/Slavjanovedenie/Etimologicheskij_slovar%60_slavjanskogo_jazyka/
