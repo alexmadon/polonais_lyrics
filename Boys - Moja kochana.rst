@@ -1,141 +1,144 @@
 Boys - Moja kochana
 ===================
 
-Moja_ kochana...           
-Mon amour                           
 
-Moja kochana_...           
-Mon amour                           
-
-                            
-                                     
-
-1.                         
-1                                   
-
-Moja kochana,              
-Mon amour                           
-
-Wciąż nie umiem_ z siebie_ wydrzeć naszych_ snów_. 
-Toujours pas ne peux de moi sortir nos rêves                 
-
-W mej głowie_ nie wiem, skąd_                      
-Dans ma tête je ne sais d'où        
-
-Jak blask_ na niebie_ zagościłaś znów_.            
-Comme une lueur dans le ciel tu es revenue.                  
-
-I choć_ te dni odeszły_    
-Et bien que ces jours soient disparus                        
-
-I mieszkasz_ teraz_ w czasie_ przeszłym_,          
-Et tu vis maintenant au passé,      
-
-To nadal wszystko_ mi się składa_ w słowo_ ty      
-C'est encore tout qui forme pour moi le mot TOI              
-
-Moja kochana,              
-Mon amour                           
-
-Ref.                       
-Ref                                 
-
-Nadal mam przy sobie       
-Encore j'ai avec moi                
-
-Kilka twoich zdjęć_.       
-Quelques de toi photos.             
-
-Jeden wiersz_ o tobie,     
-Un poème à propos de toi,           
-
-Twoich listów pięć_.       
-Tes lettres cinq.                   
-
-Wciąż nie umiem z lustra_ twojej szminki zmyć.     
-Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
-
-Nadal twoje usta_ lubią mi się śnić_.              
-Encore tes lèvres aiment de moi rêver.                       
-
-I choć_ te dni odeszły     
-Et bien que ces jours soient disparus                        
-
-I mieszkasz_ teraz w czasie_przeszłym_,            
-Et tu vis maintenant au passé,      
-
-To nadal wszystko_ mi się składa_ w słowo_ ty     
-C'est encore tout qui forme pour moi le mot TOI              
-
-Moja kochana...            
-Mon amour                           
-
-                           
-                                    
-
-2.                         
-2.                                  
-
-Moja kochana,              
-Mon amour                           
-
-Już za oknem_ wieje_ tylko_ zimny_ wiatr_.        
-Déjà en dehors de la fenêtre souffle seulement le froid vent 
-
-Twe zdjęcia_ pokrył kurz_, 
-Tes photos couvertes de poussière   
-
-A piach_ przysypał każdy_ po nas ślad_.           
-Et le sable couvre chacune de nos traces                     
-
-I choć te dni odeszły_     
-Et bien que ces jours soient disparus                        
-
-*I mieszkasz_ teraz w czasie_ przeszłym,*         
-> Et tu vis maintenant au passé,      
-
-To nadal wszystko_ mi się składa_ w słowo_ ty     
-C'est encore tout qui forme pour moi le mot TOI              
-
-                                                                          
-
-Moja kochana,              
-Mon amour                           
-
-Ref. x2                    
-                                    
-
-Nadal mam przy sobie       
-Encore j'ai avec moi                
-
-Kilka twoich zdjęć_.       
-Quelques de toi photos.             
-
-Jeden wiersz_ o tobie,     
-Un poème à propos de toi,           
-
-Twoich listów pięć_.       
-Tes lettres cinq.                   
-
-Wciąż nie umiem z lustra_ twojej szminki zmyć.    
-Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   
-
-Nadal twoje usta_ lubią mi się śnić.              
-Encore tes lèvres aiment de moi rêver.                       
-
-I choć_ te dni odeszły     
-Et bien que ces jours soient disparus                        
-
-I mieszkasz_ teraz w czasie_ przeszłym,           
-Et tu vis maintenant au passé,      
-
-To nadal wszystko_ mi się składa_ w słowo_ ty     
-C'est encore tout qui forme pour moi le mot TOI              
-
-Moja kochana_...           
-Mon amour                           
-
-
+::
+   
+  Moja_ kochana...           
+  Mon amour                           
+  
+  Moja kochana_...           
+  Mon amour                           
+  
+                              
+                                       
+  
+  1.                         
+  1                                   
+  
+  Moja kochana,              
+  Mon amour                           
+  
+  Wciąż nie umiem_ z siebie_ wydrzeć naszych_ snów_. 
+  Toujours pas ne peux de moi sortir nos rêves                 
+  
+  W mej głowie_ nie wiem, skąd_                      
+  Dans ma tête je ne sais d'où        
+  
+  Jak blask_ na niebie_ zagościłaś znów_.            
+  Comme une lueur dans le ciel tu es revenue.                  
+  
+  I choć_ te dni odeszły_    
+  Et bien que ces jours soient disparus                        
+  
+  I mieszkasz_ teraz_ w czasie_ przeszłym_,          
+  Et tu vis maintenant au passé,      
+  
+  To nadal wszystko_ mi się składa_ w słowo_ ty      
+  C'est encore tout qui forme pour moi le mot TOI              
+  
+  Moja kochana,              
+  Mon amour                           
+  
+  Ref.                       
+  Ref                                 
+  
+  Nadal mam przy sobie       
+  Encore j'ai avec moi                
+  
+  Kilka twoich zdjęć_.       
+  Quelques de toi photos.             
+  
+  Jeden wiersz_ o tobie,     
+  Un poème à propos de toi,           
+  
+  Twoich listów pięć_.       
+  Tes lettres cinq.                   
+  
+  Wciąż nie umiem z lustra_ twojej szminki zmyć.     
+  Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   |
+  
+  Nadal twoje usta_ lubią mi się śnić_.              
+  Encore tes lèvres aiment de moi rêver.                       
+  
+  I choć_ te dni odeszły     
+  Et bien que ces jours soient disparus                        
+  
+  I mieszkasz_ teraz w czasie_przeszłym_,            
+  Et tu vis maintenant au passé,      
+  
+  To nadal wszystko_ mi się składa_ w słowo_ ty     
+  C'est encore tout qui forme pour moi le mot TOI              
+  
+  Moja kochana...            
+  Mon amour                           
+  
+                             
+                                      
+  
+  2.                         
+  2.                                  
+  
+  Moja kochana,              
+  Mon amour                           
+  
+  Już za oknem_ wieje_ tylko_ zimny_ wiatr_.        
+  Déjà en dehors de la fenêtre souffle seulement le froid vent 
+  
+  Twe zdjęcia_ pokrył kurz_, 
+  Tes photos couvertes de poussière   
+  
+  A piach_ przysypał każdy_ po nas ślad_.           
+  Et le sable couvre chacune de nos traces                     
+  
+  I choć te dni odeszły_     
+  Et bien que ces jours soient disparus                        
+  
+  I mieszkasz_ teraz w czasie_ przeszłym,       
+  Et tu vis maintenant au passé,      
+  
+  To nadal wszystko_ mi się składa_ w słowo_ ty     
+  C'est encore tout qui forme pour moi le mot TOI              
+  
+                                                                            
+  
+  Moja kochana,              
+  Mon amour                           
+  
+  Ref. x2                    
+                                      
+  
+  Nadal mam przy sobie       
+  Encore j'ai avec moi                
+  
+  Kilka twoich zdjęć_.       
+  Quelques de toi photos.             
+  
+  Jeden wiersz_ o tobie,     
+  Un poème à propos de toi,           
+  
+  Twoich listów pięć_.       
+  Tes lettres cinq.                   
+  
+  Wciąż nie umiem z lustra_ twojej szminki zmyć.    
+  Je ne peux toujours pas du miroir de ton rouge à lèvres laver.   
+  
+  Nadal twoje usta_ lubią mi się śnić.              
+  Encore tes lèvres aiment de moi rêver.                       
+  
+  I choć_ te dni odeszły     
+  Et bien que ces jours soient disparus                        
+  
+  I mieszkasz_ teraz w czasie_ przeszłym,           
+  Et tu vis maintenant au passé,      
+  
+  To nadal wszystko_ mi się składa_ w słowo_ ty     
+  C'est encore tout qui forme pour moi le mot TOI              
+  
+  Moja kochana_...           
+  Mon amour                           
+  
+  
 .. _Moja : https://en.wiktionary.org/wiki/m%C3%B3j#Polish
 
 .. _kochana : https://en.wiktionary.org/wiki/kocha%C4%87#Polish
@@ -162,13 +165,13 @@ Mon amour
 .. _znów : https://en.wiktionary.org/wiki/zn%C3%B3w#Polish
 
 .. _choć : https://en.wiktionary.org/wiki/cho%C4%87#Polish
-
+  
 .. _mieszkasz : https://en.wiktionary.org/wiki/mieszka%C4%87#Polish
 
 .. _teraz : https://en.wiktionary.org/wiki/teraz#Polish
-
+  
 .. _czasie : https://en.wiktionary.org/wiki/czas#Polish
-
+  
 .. _wszystko : https://en.wiktionary.org/wiki/wszystko
 
 .. _przeszłym : https://pl.wiktionary.org/wiki/przesz%C5%82y
@@ -182,7 +185,7 @@ Mon amour
 .. _choć : https://en.wiktionary.org/wiki/cho%C4%87
 
 .. _zdjęć : https://en.wiktionary.org/wiki/zdj%C4%99cie#Polish
-
+  
 .. _wiersz : https://en.wiktionary.org/wiki/wiersz
 
 .. _pięć : https://en.wiktionary.org/wiki/pi%C4%99%C4%87
@@ -220,3 +223,4 @@ Mon amour
 https://en.wikipedia.org/wiki/Etymological_Dictionary_of_Slavic_Languages
 ftp://www.istorichka.ru/Slavjanovedenie/Etimologicheskij_slovar%60_slavjanskogo_jazyka/
 https://www.bulgari-istoria-2010.com/Rechnici/SlavED.pdf
+  
