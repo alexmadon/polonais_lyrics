@@ -2,18 +2,14 @@ Boys - Moja kochana
 ===================
 
 
-| 
+
 | Moja_ kochana...
 | Mon amour 
 |  
 | Moja kochana_...
 | Mon amour 
 |  
-| 
-|  
-|  
 | 1.
-| 
 | 1 
 |  
 | Moja kochana,
@@ -75,8 +71,6 @@ Boys - Moja kochana
 | Mon amour 
 | 
 | 
-| 
-| 
 | 2. 
 | 2.
 | 
@@ -107,7 +101,6 @@ Boys - Moja kochana
 | Mon amour 
 | 
 | Ref. x2
-| 
 | 
 | Nadal mam przy sobie 
 | Encore j'ai avec moi
