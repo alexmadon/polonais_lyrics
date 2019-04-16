@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 import argparse
+import re
+
 
 import polishipa
 
@@ -23,12 +25,15 @@ def translate(filename):
     
     output=[]
     
-    previous_line='|'
+    plregex=re.compile("<pl>(.+)</pl>")
     for line in lines:
         line=line.strip()
-        if line.startswith('<pl>'):
+        match=plregex.search(line)
+        # print(match)
+        if match:
+            polish=match.group(1)
             output.append(line)
-            output.append(polishipa.convert(line,rerules,rules_with_symbols,g2p_dict,regex))
+            output.append("<ip>"+polishipa.convert(polish,rerules,rules_with_symbols,g2p_dict,regex)+"</ip>")
         else:
             print(line)
             output.append(line)
@@ -44,5 +49,7 @@ def translate(filename):
 
 
 if __name__ == "__main__":
-    opts=parse_cli()
-    translate(opts.filename)
+    # opts=parse_cli()
+    # filename=opts.filename
+    filename="lyr.xml"
+    translate(filename)
