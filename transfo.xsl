@@ -14,7 +14,18 @@
 	  width: 80%
 	  }
 	</style>
-
+	<script>
+	  function PlaySound(soundobj) {
+	  var thissound=document.getElementById(soundobj);
+	  thissound.play();
+	  }
+	  
+	  function StopSound(soundobj) {
+	  var thissound=document.getElementById(soundobj);
+	  thissound.pause();
+	  thissound.currentTime = 0;
+	  }
+	  </script>
       </head>
       <body>
 	<center>
@@ -45,46 +56,282 @@
 
 
   <xsl:template match="song[@id='hej']">
-    HHHHHHHHHHHHHH
-    <xsl:apply-templates/>
+
+    
+    <audio controls=""><source src="mp3/Hej Sokoły - Maryla Rodowicz -0QrYTIsrNi0.mp4.mp3"></source></audio>
+    <div>Maryla Rodowicz</div> 
+    <xsl:apply-templates select="title"/>
+    <xsl:apply-templates select="p[@id='5last']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <!--
+    <xsl:apply-templates select="p[@id='2']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <!--
+    <xsl:apply-templates select="p[@id='3']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <xsl:apply-templates select="p[@id='4var']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <!--
+    <xsl:apply-templates select="p[@id='5']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <xsl:apply-templates select="p[@id='6rep']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+    <audio controls=""><source src="mp3/Bayer Full - Hej sokoły (Official Version 1998)-axAo4Ia8Xjo.mp4.mp3"></source></audio>
+    <div>Bayer Full</div> 
+    <xsl:apply-templates select="title"/>
+    <xsl:apply-templates select="p[@id='1']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <xsl:apply-templates select="p[@id='2']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <!--
+    <xsl:apply-templates select="p[@id='3']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <xsl:apply-templates select="p[@id='4']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <xsl:apply-templates select="p[@id='5']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <xsl:apply-templates select="p[@id='6']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+
+    <audio controls=""><source src="mp3/Dzikie Pola - Hej Sokoły-2Kxxqm7b_ys.mp4.mp3"></source></audio>
+    <div>Dzikie Pola</div>
+    <xsl:apply-templates select="title"/>
+    <xsl:apply-templates select="p[@id='1']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <xsl:apply-templates select="p[@id='5var']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    
+    <xsl:apply-templates select="p[@id='4']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    
+    <xsl:apply-templates select="p[@id='6']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <!--
+    <xsl:apply-templates select="p[@id='5']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <xsl:apply-templates select="p[@id='6']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+
+    <audio controls=""><source src="mp3/Hej sokoły ! - Krzysztof Krawczyk-rJnVI4Hj3SI.mp4.mp3"></source></audio>
+    <div>Krzysztof Krawczyk</div> 
+    <xsl:apply-templates select="title"/>
+    <xsl:apply-templates select="p[@id='5var']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <!--
+	<xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <!--
+    <xsl:apply-templates select="p[@id='2']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <xsl:apply-templates select="p[@id='3']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    
+    <xsl:apply-templates select="p[@id='4']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <!--
+    <xsl:apply-templates select="p[@id='5']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <xsl:apply-templates select="p[@id='6']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+
+
+
+    <audio controls=""><source src="mp3/Hej Sokoły - Ludowa Piosenka (Polish folk song)-qqVQmRmlH14.mp4.mp3"></source></audio>
+    <div>Ludowa Piosenka</div> 
+    <xsl:apply-templates select="title"/>
+    <xsl:apply-templates select="p[@id='1']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <xsl:apply-templates select="p[@id='2']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <!--
+    <xsl:apply-templates select="p[@id='3']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <xsl:apply-templates select="p[@id='4']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <xsl:apply-templates select="p[@id='6']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <xsl:apply-templates select="p[@id='5']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+    <xsl:apply-templates select="p[@id='1']"/>
+
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+
+
+    
+
+
+    <audio controls=""><source src="mp3/Hej, sokoły + tekst, słowa-D1q0-bT6H7s.mp4.mp3"></source></audio>
+    <div>tekst</div> 
+    <xsl:apply-templates select="title"/>
+    <xsl:apply-templates select="p[@id='5last']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <!--
+    <xsl:apply-templates select="p[@id='2']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <!--
+    <xsl:apply-templates select="p[@id='3']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <xsl:apply-templates select="p[@id='4var2']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    <!--
+    <xsl:apply-templates select="p[@id='5']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+    -->
+    <xsl:apply-templates select="p[@id='6']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+
+
+    <audio controls=""><source src="mp3/Hej sokoły-xqhpWhcgPm8.webm.mp3"></source></audio>
+    <div>Karaoke</div> 
+    <xsl:apply-templates select="title"/>
+    <xsl:apply-templates select="p[@id='1']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+    <xsl:apply-templates select="p[@id='4var']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+    <xsl:apply-templates select="p[@id='5']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+    <xsl:apply-templates select="p[@id='6']"/>
+    <xsl:apply-templates select="p[@id='ref1']"/>
+    <xsl:apply-templates select="p[@id='ref2']"/>
+
+
+
+     
   </xsl:template>
 
 
+  
   <xsl:template match="song[@id='lipka']">
-    <song>
-      LIPKA
-      <xsl:apply-templates/>
-    </song>
   </xsl:template> 
 
   <xsl:template match="song[@id='dowidzenia']">
-    
-  </xsl:template> 
+  </xsl:template>
+
+  
   <xsl:template match="song[@id='weekend']">
-    
   </xsl:template> 
 
   <xsl:template match="song[@id='wmoim']">
-    
-  </xsl:template> 
+  </xsl:template>
 
+
+  
+
+
+
+
+<!-- ================================================== -->
+<!-- ===============      elemetar    ================= -->
+<!-- ================================================== -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
   <xsl:template match="title">
     <div style="font-size:1.5em"><xsl:apply-templates/></div>
   </xsl:template>
 
   <xsl:template match="p">
-    <div style="margin:1em"><xsl:apply-templates/></div>
-    <div>***</div>
+    <div style="margin:1em">***<xsl:value-of select="@id"/>***</div>
+    <div><xsl:apply-templates/></div>
   </xsl:template>
 
   <xsl:template match="v">
     <div style="margin:0.5em"><xsl:apply-templates/></div>
   </xsl:template>
   
+
   <xsl:template match="pl">
-    <div><b><xsl:apply-templates/></b></div>
+    <!--  see https://stackoverflow.com/questions/48090490/xslt-how-to-get-position-of-an-element-among-all-such-elements-in-the-xml -->
+    <audio>
+      <xsl:attribute name="id">
+	<xsl:number level="any"/>
+      </xsl:attribute>
+      <xsl:attribute name="src">
+	<xsl:text>gspeech/</xsl:text><xsl:number level="any"/><xsl:text>.mp3</xsl:text>
+      </xsl:attribute>
+    </audio>
+
+    <div>
+      <xsl:attribute name="onmouseover">
+	<xsl:text>PlaySound('</xsl:text><xsl:number level="any"/><xsl:text>')</xsl:text>
+      </xsl:attribute>
+      <xsl:attribute name="onmouseout">
+	<xsl:text>StopSound('</xsl:text><xsl:number level="any"/><xsl:text>')</xsl:text>
+      </xsl:attribute>
+      <b><xsl:apply-templates/></b>
+    </div>
   </xsl:template>
+
+
   
   <xsl:template match="ip">
     <div><xsl:apply-templates/></div>
