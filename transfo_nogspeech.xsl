@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-  <xsl:output method="html" encoding="UTF-8"/>
+  <xsl:output method="xml" encoding="UTF-8"/>
 
 
   <xsl:template match="songs">
@@ -14,18 +14,7 @@
 	  width: 80%
 	  }
 	</style>
-	<script>
-	  function PlaySound(soundobj) {
-	  var thissound=document.getElementById(soundobj);
-	  thissound.play();
-	  }
-	  
-	  function StopSound(soundobj) {
-	  var thissound=document.getElementById(soundobj);
-	  thissound.pause();
-	  thissound.currentTime = 0;
-	  }
-	  </script>
+
       </head>
       <body>
 	<center>
@@ -35,13 +24,10 @@
     </html>
   </xsl:template>
 
-  
-  <xsl:template match="song[@id='renata']">
-    <audio controls=""><source src="mp3/Hej Sokoły - Maryla Rodowicz -0QrYTIsrNi0.mp4.mp3"></source></audio>
-    <div>Renata Zarębska</div><!-- Renata Zarębska - Noc z Renatą -->
+    <xsl:template match="song[@id='cleo']">
+     <audio controls=""><source src="mp3/cleo___za_krokiem_krok__fxw7mhinvw.mp4.mp3"></source></audio>
     <xsl:apply-templates/>
-  </xsl:template> 
-
+   </xsl:template>
 
   <xsl:template match="song[@id='kare']">
   </xsl:template> 
@@ -313,46 +299,10 @@
   <xsl:template match="v">
     <div style="margin:0.5em"><xsl:apply-templates/></div>
   </xsl:template>
-
-<!--
   
-  <xsl:template match="pl" mode="audio">
-    <audio>
-      <xsl:attribute name="id">
-	<xsl:number level="any"/>
-      </xsl:attribute>
-      <xsl:attribute name="src">
-	<xsl:text>gspeech/</xsl:text><xsl:number level="any"/><xsl:text>.mp3</xsl:text>
-      </xsl:attribute>
-    </audio>
-  </xsl:template>
--->
-
   <xsl:template match="pl">
-    <!--  see https://stackoverflow.com/questions/48090490/xslt-how-to-get-position-of-an-element-among-all-such-elements-in-the-xml -->
-    
-    <audio>
-      <xsl:attribute name="id">
-	<xsl:number level="any"/>
-      </xsl:attribute>
-      <xsl:attribute name="src">
-	<xsl:text>gspeech/</xsl:text><xsl:number level="any"/><xsl:text>.mp3</xsl:text>
-      </xsl:attribute>
-    </audio>
-
-    <div>
-      <xsl:attribute name="onmouseover">
-	<xsl:text>PlaySound('</xsl:text><xsl:number level="any"/><xsl:text>')</xsl:text>
-      </xsl:attribute>
-      <xsl:attribute name="onmouseout">
-	<xsl:text>StopSound('</xsl:text><xsl:number level="any"/><xsl:text>')</xsl:text>
-      </xsl:attribute>
-      <b><xsl:apply-templates/></b>
-    </div>
-    
+    <div><b><xsl:apply-templates/></b></div>
   </xsl:template>
-
-
   
   <xsl:template match="ip">
     <div><xsl:apply-templates/></div>

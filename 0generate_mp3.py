@@ -19,8 +19,8 @@ def get_google(filename):
         match=plregex.search(line)
         # print(match)
         if match:
-            polish=match.group(1)
-            print("polish",polish)
+            text=match.group(1)
+            print("polish",text)
             lang = "pl"
             filename="gspeech/"+str(counter)+".mp3"
             print("filename",filename)
