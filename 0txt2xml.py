@@ -1,30 +1,52 @@
 #!/usr/bin/env python3
 import argparse
+import os
+
 import gtranslate
 
 
 def parse_file(opts):
     out=[]
     txtfile=opts.txtfile
-    print("coverting",txtfile)
+    print("converting",txtfile)
     f=open(txtfile,"r")
     lines=f.readlines()
     f.close()
     print(lines)
 
-
+    previousline=""
+    i=0
     for line in lines:
         line=line.strip()
-        if line=="":
-            out.append("</p>")
+        if line=="" and previousline!="":
+            if out[-1]!="</title>":
+                out.append("</p>")
             out.append("<p>")
         else:
-            out.append("<v>")
+            if i==0:
+                out.append('<song id="">')
+                out.append("<title>")
+            else:
+                out.append("<v>")
             out.append("<pl>"+line+"</pl>")
+            frtext=""
             frtext=gtranslate.translate_wrapper(line)
             out.append("<fr>"+frtext+"</fr>")
-            out.append("</v>")
-    print("\n".join(out))
+            if i==0:
+                out.append("</title>")
+            else:
+                out.append("</v>")
+        previousline=line
+        i=i+1
+    out.append("</p>")
+    out.append("</song>")
+    ss="\n".join(out)
+    print(ss)
+
+    filename, file_extension= os.path.splitext(txtfile)
+    f=open(filename+".xml","w")
+    f.write(ss)
+    f.close()
     
 def parse_cli():
 
